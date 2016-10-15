@@ -1,0 +1,3 @@
+node-sass --include-path assets/sass assets/sass/main.scss assets/css/main.css
+node-sass --include-path assets/sass assets/sass/ie8.scss assets/css/ie8.css
+node-sass --include-path assets/sass assets/sass/ie9.scss assets/css/ie9.css
