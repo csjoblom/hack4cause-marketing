@@ -9,7 +9,7 @@
     "watch-css": "./bin/watch-css"
   },
   "author": "",
-  "license": "MIT",
+  "license": "CCA3.0",
   "devDependencies": {
     "node-sass": "^3.10.1",
     "nodemon": "^1.11.0"
